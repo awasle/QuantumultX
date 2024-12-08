@@ -6,7 +6,7 @@
 1⃣️ Quantumult X 资源解析器:   
 
 
-https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
+https://github.com/awasle/QuantumultX/blob/master/Scripts/resource-parser.js
 
 
 
@@ -15,10 +15,4 @@ https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
 更新请关注 tg 频道 https://t.me/QuanX_API
 
 
-
-觉得有帮助可以请喝咖啡:
-
-
-
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geiniiv2onj30u00u0wgi.jpg" alt="IMG_5957" style="zoom:23%;" />
 
